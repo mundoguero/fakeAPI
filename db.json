@@ -1,6 +1,28 @@
 {
-        "playerName": "Cristiano Ronaldo",
-        "countryOfBirth": "Portugal",
-        "numberOfGames": 33,
-        "numberOfGoals": 31
+  "subjects": [
+    {
+      "id": 1,
+      "title": "oggetto 1"
+    },
+    {
+      "id": 2,
+      "title": "oggetto 2"
+    },
+    {
+      "id": 3,
+      "title": "oggetto 3"
+    },
+    {
+      "id": 4,
+      "title": "oggetto 4"
+    },
+    {
+      "id": 5,
+      "title": "oggetto 5"
+    }
+  ],
+  "passwords": {
+    "password": "password",
+    "password": "senha"
+  }
 }
