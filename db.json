@@ -22,7 +22,6 @@
     }
   ],
   "passwords": {
-    "password": "password",
-    "password": "senha"
+    "password": "password"
   }
 }
