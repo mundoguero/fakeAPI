@@ -1,0 +1,9 @@
+{
+  "name" : "Cristiano Ronaldo",
+  "id" : 7,
+  "gamesPlayed" : 33,
+  "numberOfGoals" : 31,
+  "teamName" : {
+    "name" : "Juventus"
+  }
+}
