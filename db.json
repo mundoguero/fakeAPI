@@ -1,7 +1,12 @@
 {
-  "name" : "John Appleseed",
-  "id" : 7,
-  "favoriteToy" : {
-    "name" : "Teddy Bear"
-  }
+        "id": 1,
+        "name": "Cristiano Ronaldo",
+        "firstName": "Cristiano",
+        "lastName": "Ronaldo",
+        "dateOfBirth": "1985-02-05",
+        "countryOfBirth": "Portugal",
+        "nationality": "Portugal",
+        "position": "Attacker",
+        "numberOfGames": 33
+        "numberOfGoals": 31
 }
