@@ -1,11 +1,7 @@
 {
-    "playerName" : {
-        "name": "Cristiano Ronaldo"
-    },
+  "name" : "John Appleseed",
   "id" : 7,
-  "gamesPlayed" : 33,
-  "numberOfGoals" : 31,
-  "teamName" : {
-    "name": "Juventus"
+  "favoriteToy" : {
+    "name" : "Teddy Bear"
   }
 }
