@@ -1,5 +1,5 @@
 {
-        "name": "Cristiano Ronaldo",
+        "playerName": "Cristiano Ronaldo",
         "countryOfBirth": "Portugal",
         "numberOfGames": 33,
         "numberOfGoals": 31
